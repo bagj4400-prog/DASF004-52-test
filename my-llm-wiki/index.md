@@ -24,7 +24,6 @@
 
 ## Synthesis
 - [[창업 단계별 학습 로드맵]]
-- [[LLM 아키텍처의 한계점]] — 연산·메모리, 긴 컨텍스트, 학습 목표, 운영 한계 (⚠️ raw 출처 없는 초안)
 
 ## Raw Sources
 - `raw/papers/2602_ENTRE_1_OT.pdf` — 1주차 OT (14p)
